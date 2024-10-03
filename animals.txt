@@ -1,0 +1,5 @@
+Fennec, fox
+Balto, dog
+Kaa, python
+Dumbo, elephant
+Simba, lion
